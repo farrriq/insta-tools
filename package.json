@@ -1,7 +1,7 @@
 {
   "name": "instagram",
   "version": "1.0.0",
-  "description": "Instagram Unfollow Not FollowBack",
+  "description": "Instagram",
   "main": "index.js",
   "dependencies": {
     "chalk": "^2.3.0",
